@@ -1,0 +1,4 @@
+1. java.io.FileNotFoundException: class path resource [report/test.jrxml] cannot be resolved to absolute file path because it does not reside in the file system: jar:file:/C:/Users/Kien_N
+   guyen1/Documents/Learning/Mentoring/jasper/target/jasper-0.0.1.jar!/BOOT-INF/classes!/report/test.jrxml
+
+2. java.lang.NoClassDefFoundError: Could not initialize class net.sf.jasperreports.engine.util.JRStyledTextParser
